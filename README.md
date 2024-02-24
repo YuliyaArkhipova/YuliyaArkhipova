@@ -1,4 +1,7 @@
-### Hi there 👋
+# Привет 👋
+## Меня зовут Юля  
+### Изучаю Курс «Python-разработчик с нуля» в Онлайн-университете Skypro
+
 
 <!--
 **YuliyaArkhipova/YuliyaArkhipova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
